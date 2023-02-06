@@ -1,1 +1,2 @@
-This test openAI project.
+This test openAI project, still run on local.
+Run npm run dev fir client side initiation and npm run server for server side inititation(start).
